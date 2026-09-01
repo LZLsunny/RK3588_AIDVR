@@ -1,0 +1,2 @@
+# RK3588_AIDVR
+8K video、YoloV26n、LLM
