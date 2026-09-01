@@ -1,0 +1,27 @@
+# Build outputs
+/build/
+/out/
+/cmake-build-*/
+
+# IDEs
+/.vscode/
+/.idea/
+
+# OS files
+Thumbs.db
+Desktop.ini
+
+# Non-source: docs, learning plans, troubleshooting notes
+/docs/
+/TD/
+
+# Local tooling & machine-specific files
+/.agents/
+/.codex/
+/.ssh_known_hosts
+
+# Artifacts (keep directory, ignore contents)
+/artifacts/logs/*
+/artifacts/test-streams/*
+!/artifacts/logs/.gitkeep
+!/artifacts/test-streams/.gitkeep
